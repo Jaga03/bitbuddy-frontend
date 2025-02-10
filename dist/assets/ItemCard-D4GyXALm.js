@@ -1,0 +1,1 @@
+import{j as r}from"./index-DIJBFqw8.js";const c=({item:s,onClick:a})=>r.jsxs("div",{className:"item-card",onClick:()=>a(s),children:[r.jsx("img",{src:s.image,alt:s.name}),r.jsx("h2",{children:s.name}),r.jsxs("p",{children:["₹",s.price]})]});export{c as default};
